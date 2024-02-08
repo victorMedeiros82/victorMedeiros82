@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>E ai, tudo bem?!</h2>
+Eu sou Victor dos Santos Medeiros.
+🧑🏾‍🎓 Bacharel em Administração.
+🧑🏾‍💻 Conhecimentos nas linguagens:
+    ♦ HTML5
+    ♦ CSS3
+    ♦ JAVASCRIPT
+    ♦ NODEJS
+    ♦ SQL (Postgres)
+    
+Instituição de ensino: SENAC.
 
-<!--
-**victorMedeiros82/victorMedeiros82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<H2>CONTATOS</H2>
+<li>e-mail: victor.medeiros82@gmail.com</li>
+<li>linkedin: <a href="https://www.linkedin.com/in/victor-medeiros82/">Victor Medeiros</a></li>
