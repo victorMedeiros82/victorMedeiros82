@@ -2,11 +2,11 @@
 Eu sou Victor dos Santos Medeiros.
 🧑🏾‍🎓 Bacharel em Administração.
 🧑🏾‍💻 Conhecimentos nas linguagens:
-    ♦ HTML5
-    ♦ CSS3
-    ♦ JAVASCRIPT
-    ♦ NODEJS
-    ♦ SQL (Postgres)
+    <li>HTML</li>
+    <li>CSS3</li>
+    <li>JAVASCRIPT</li>
+    <li>NODE JS</li>
+    <li>SQL (postgres)</li>
     
 Instituição de ensino: SENAC.
 
