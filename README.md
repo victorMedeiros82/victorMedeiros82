@@ -1,7 +1,7 @@
 <h2>E ai, tudo bem?!</h2>
-Eu sou Victor dos Santos Medeiros.
-🧑🏾‍🎓 Bacharel em Administração.
-🧑🏾‍💻 Conhecimentos nas linguagens:
+Eu sou Victor dos Santos Medeiros.</br>
+🧑🏾‍🎓Bacharel em Administração.</br>
+<h3></h3>CONHECIMENTOS NAS LINGUAGENS:</h3>
     <li>HTML</li>
     <li>CSS3</li>
     <li>JAVASCRIPT</li>
