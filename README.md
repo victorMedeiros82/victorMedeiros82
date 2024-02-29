@@ -1,11 +1,3 @@
-<head>
-  <style rel="stylesheet" type="text/css">
-    h3 {
-      color: #f00;
-      }
-  </style>
-</head>
-
 <h2>E ai, tudo bem?!</h2>
 Eu sou Victor dos Santos Medeiros.</br>
 <h3>FORMAÇÃO ACADEMICA</h3>
