@@ -1,7 +1,16 @@
+<head>
+  <style rel="stylesheet" type="text/css">
+    h3 {
+      color: #f00;
+      }
+  </style>
+</head>
+
 <h2>E ai, tudo bem?!</h2>
 Eu sou Victor dos Santos Medeiros.</br>
+<h3>FORMAÇÃO ACADEMICA</h3>
 🧑🏾‍🎓Bacharel em Administração.</br>
-<h3></h3>CONHECIMENTOS NAS LINGUAGENS:</h3>
+<h3><b>CONHECIMENTOS NAS LINGUAGENS:</b></h3>
     <li>HTML</li>
     <li>CSS3</li>
     <li>JAVASCRIPT</li>
