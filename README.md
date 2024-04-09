@@ -1,5 +1,4 @@
-<h2>E ai, tudo bem?!</h2>
-Eu sou Victor dos Santos Medeiros.</br>
+# E ai, tudo bem?!<br>Eu sou Victor dos Santos Medeiros.</br>
 <h3>FORMAÇÃO ACADEMICA</h3>
 🧑🏾‍🎓Bacharel em Administração.</br>
 <h3><b>CONHECIMENTOS NAS LINGUAGENS:</b></h3>
